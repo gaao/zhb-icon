@@ -1,4 +1,4 @@
-# juuust-vue-icon
+# ZHB-vue-icon
 
 ## Project setup
 ```
