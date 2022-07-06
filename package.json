@@ -1,6 +1,6 @@
 {
   "name": "zhb-vue-icon",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "description": "ZHB Vue Icon, Automation workflow with Figma",
   "main": "bundle/index.common.js",
   "files": [
